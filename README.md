@@ -27,7 +27,7 @@ Made by AlonsoGaray
 ## About The Project
 
 [Crazy Piano](https://crazy-piano.netlify.app/)
-![alt text](https://raw.githubusercontent.com/AlonsoGaray/starwars/main/src/img/Project.png)
+![alt text](https://raw.githubusercontent.com/AlonsoGaray/crazy-piano/main/src/img/Project.png)
 
 This exercise is to keep practicing javascript selectors usage. The goal that we needed to achieve was to play different sounds every time a piano key is pressed.
 
