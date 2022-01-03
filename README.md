@@ -51,7 +51,7 @@ _Below is an example of how you can instruct your audience on installing and set
 1. Files: [https://github.com/makeitrealcamp/top-v17/tree/main/challenges/02-piano](https://github.com/makeitrealcamp/top-v17/tree/main/challenges/02-piano)
 2. Clone the repo
    ```sh
-   git clone https://github.com/AlonsoGaray/crazy-piano
+   git clone https://github.com/AlonsoGaray/crazy-piano.git
    ```
 3. Install NPM packages
    ```sh
