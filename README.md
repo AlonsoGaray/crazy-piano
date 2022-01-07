@@ -71,6 +71,6 @@ Distributed under the MIT License.
 
 Alonso Garay - alonsogarayp@gmail.com
 
-Project Link - [https://github.com/AlonsoGaray/crazy-piano.git](https://github.com/AlonsoGaray/crazy-piano.git)
+Project Link - [https://github.com/AlonsoGaray/crazy-piano](https://github.com/AlonsoGaray/crazy-piano)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
